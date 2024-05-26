@@ -6,7 +6,7 @@ Lua Path Converter is a utility extension dedicated for converting Windows file 
 
 Right click on file tab of any lua script file, select `Copy Lua Style Path` option, the converted path is in your clipboard.
 
-![Sample](C:\Users\cym-h\luapathconverter\readme\Sample.gif)
+![Sample](./readme/Sample.gif)
 
 > Note: This extension can only work within a Lua project workspace.
 
